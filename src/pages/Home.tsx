@@ -53,6 +53,8 @@ export function Home() {
           <CardCoffee />
           <CardCoffee />
           <CardCoffee />
+          <CardCoffee />
+          <CardCoffee />
         </div>
       </CoffeesContainer>
     </>
